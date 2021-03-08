@@ -18,3 +18,11 @@ button{
     width: 100px;
     height: auto;
 }
+.footerText{
+    text-align: center;
+}
+.footer{
+    margin-top: 25px;
+    background-color: burlywood;
+    padding: 25px;
+}
